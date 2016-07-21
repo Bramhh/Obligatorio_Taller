@@ -1,0 +1,23 @@
+Implementaciones
+
+Se agregan funciones y se declara en este bloq de notas
+Estructurada
+Version x
+* Funcionalidad aclarada.
+
+PD: No se agrega nada en este archivo que no sean referenciado a una funcion 
+que funcione correctamente.
+Ejemplo de una buena modificación : "Se agrego mapeo por usuario [Funcional]"
+Mal ejemplo : "Se modifico el nombre de la funcion Chek por Chekeame"
+Ejemplo correcto : "Se modifico el alcance de una calle a otra"
+Mal ejemplo : "Se cambio los nombres o texto de 1 a otro".
+
+Solo modificaciones de funciones hacia el usuario, no hace referencia a aclarar
+modificaciones poco relativas dentro del código.
+
+-----------------------------------------------------------
+Versión 0.1
+* GitHug cuenta : Bramhh/Taller(Movil) [Funcional] 
+-----------------------------------------------------------
+Versión 0.2
+* ...(...) <-- Cuando tengamos modificaciones nuevas agregar y así versión por versión.
